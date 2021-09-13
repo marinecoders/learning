@@ -2,7 +2,7 @@
 
 ## Modules
 
-1. [Environment Setup](./1-setup/README.md)
+1. [Environment Setup](./1-setup/Setup.md)
 
 2. [Intro to React](./2-intro-to-react/README.md)
 
