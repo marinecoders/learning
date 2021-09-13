@@ -29,5 +29,5 @@ following a similar theme to [PluralSight](https://pluralsight.com) as a referen
 
 ## Authors
 
-Colin Chew
+[Colin Chew](https://www.linkedin.com/in/cjchew/)
 [Adam Kramer](https://www.linkedin.com/in/adam-kramer-a7951243/)
